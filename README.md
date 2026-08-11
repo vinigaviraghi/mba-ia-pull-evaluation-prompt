@@ -57,6 +57,7 @@ Após cada avaliação, ajuste `prompts/bug_to_user_story_v2.yml`, faça novo pu
 
 ## Resultados Finais
 
+```text
 ==================================================
 AVALIAÇÃO DE PROMPTS OTIMIZADOS
 ==================================================
@@ -127,6 +128,7 @@ Aprovados: 1
 Reprovados: 0
 
 ✅ Todos os prompts atingiram todas as métricas >= 0.8!
+```
 
 
 ## Evidências Visuais
